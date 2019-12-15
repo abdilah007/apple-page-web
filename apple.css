@@ -1,0 +1,115 @@
+
+body{
+
+	background-color: #ddeeaa;
+}
+
+#container{
+
+border: 2px solid #aabb44;
+min-height: 1600px;
+margin-right: auto;
+margin-left: auto;
+width: 770px;
+text-align: left;
+background-color:white;
+
+}
+
+header{
+
+	height: 258px;
+	background-color: white;
+	
+}
+
+
+header .pic{
+
+
+	float: left;
+}
+
+header .pic1{
+
+	float: right;
+	margin: 10px;
+}
+
+
+nav ul {
+  margin: 0;
+padding: 0;
+height: 35px;
+background-image: url(bg_menu.gif);
+background-repeat: repeat-x;
+background-position: 0 -25px;
+list-style-type:none;
+
+}
+ nav li{
+float: left;
+text-align: center;
+
+ }
+
+
+nav ul li a{
+border-right: 2px solid #ddeeaa;
+width: 128px;
+line-height: 25px;
+font-size: 1.2em;
+font-weight: bold;
+letter-spacing: 2px;
+color:#ffffff;
+display: block;
+text-decoration: none;
+}
+
+
+
+hr{
+
+	color: #ddeeaa;
+}
+.ss{
+
+float: left;
+width: 10%;
+background-color: white;
+
+}
+
+
+.ss img {
+
+	margin: 7px;
+}
+.cc{
+
+	float: right;
+	width: 90%;
+	min-height: 500px;
+	background-color: white;
+
+}
+
+.cc h2{
+
+border-bottom: 1px solid#99bb22;
+padding-left: 25px;
+line-height: 25px;
+color:#99bb22;
+background-image: url(little_apple.gif);
+background-repeat: no-repeat;
+background-position: left bottom;
+font-size: 1.4em;
+}
+
+.cc p{
+
+
+text-indent: 2em;
+line-height: 1.7em;
+padding: 10px;
+}
